@@ -1,7 +1,6 @@
 ### 欢迎来到我的主页~ 
 #### welcome to my homepage~
 
-喜欢钻研信息技术，爱wan游戏，玩MC、原神等……
 
 ![ron6's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong6&show_icons=true&theme=radical)
 
