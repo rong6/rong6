@@ -1,6 +1,6 @@
 ### Welcome~
 
-Hi! I am a student from China🇨🇳 and love programming! I hope my program helps you.
+Hi! I am a student from China🇨🇳 and love programming! I hope my project helps you.
 
 <p align="center">
 
