@@ -1,10 +1,26 @@
-### Welcome~
+<div align="center">
 
-Hi! I am a student from China🇨🇳 and love programming! I hope my project helps you.
+## Hi, I'm rong6 👋
 
-<p align="center">
+**A student exploring technology and building interesting things.**
 
-![ron6's GitHub stats](https://github-readme-stats.vercel.app/api?username=rong6&show_icons=true&theme=radical)
+💻 Web · Open Source · AI  
+🛠️ Tools · Scripts · Experiments
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rong6&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img width="500"
+src="https://github-stats-extended.vercel.app/api?username=rong6&show_icons=true&hide_border=true&theme=default" />
+
+<br/>
+
+<img width="500"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=rong6&layout=compact&hide_border=true&theme=default&langs_count=8" />
+
+</div>
